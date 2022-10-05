@@ -44,8 +44,6 @@ Thank you.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Let's get started, it's easy to set up the MPay Bank. Download the source.
 2. Install the NodeJS. There is official instructions for it: https://nodejs.org/en/download/package-manager/
 3. Download all the dependencies, you can use "npm i ." for this.
